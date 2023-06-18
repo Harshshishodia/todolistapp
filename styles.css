@@ -1,0 +1,41 @@
+/* Reset default browser styles */
+body, h1, h2, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styles */
+header {
+  background-color: #000;
+  color: #fff;
+  /* Add more styles as needed */
+}
+
+/* Hero section styles */
+.hero {
+  background-image: url('path/to/hero-image.jpg');
+  /* Add more styles as needed */
+}
+
+/* Categories section styles */
+.categories {
+  /* Add styles as needed */
+}
+
+.category {
+  /* Add styles as needed */
+}
+
+/* Featured section styles */
+.featured {
+  /* Add styles as needed */
+}
+
+.movie {
+  /* Add styles as needed */
+}
+
+/* Footer styles */
+footer {
+  /* Add styles as needed */
+}
